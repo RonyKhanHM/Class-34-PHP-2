@@ -1,0 +1,27 @@
+---------------Conditional Statemet-------------
+    1. if/else
+    2. switch/case
+
+    $colour = 'Green';
+
+    switch($colour){
+      case 'Green';
+      echo 'Sucsess';
+      breck;
+
+      case 'Yellow';
+      echo 'Warning';
+      breck;
+
+      case 'Blue';
+      echo 'Info';
+      breck;
+
+      case 'Red';
+      echo 'Denger';
+      breck;
+
+      default:
+      echo 'Failure';
+      breck;
+    }
